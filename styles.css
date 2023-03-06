@@ -41,6 +41,7 @@ body {
 
 .hook {
     padding: 15% 0%;
+    gap: 10px;
 }
 
 .hook .flexbox-item {
