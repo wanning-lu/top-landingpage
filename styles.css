@@ -15,6 +15,10 @@ body {
     padding: 0% 15%;
 }
 
+.navbar {
+    gap: 5px;
+}
+
 .navbar .flexbox-item {
     margin: 15px;
 }
