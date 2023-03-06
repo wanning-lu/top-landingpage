@@ -125,4 +125,37 @@ body {
     margin: 5% 15%;
     background-color: #3882F6;
     border-radius: 6px;
+    padding: 4% 10%;
+}
+
+.action-text {
+    flex-grow: 3;
+}
+
+.action-button {
+    border: 3px solid #F9FAF8;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 0.5em 2.3em;
+    border-radius: 6px;
+}
+
+.action-text-header {
+    color: #F9FAF8;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.action-subtext {
+    color: #F9FAF8;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+footer {
+    background-color: #1F2937;
+    padding: 2% 0;
+    color: #F9FAF8;
+    text-align: center;
+    font-weight: 300;
 }
